@@ -80,10 +80,10 @@
         <entry file="file://$PROJECT_DIR$/src/app/styles/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.61787075">
-              <caret line="305" column="23" selection-start-line="305" selection-start-column="23" selection-end-line="305" selection-end-column="23" />
+              <caret line="305" column="24" selection-start-line="305" selection-start-column="24" selection-end-line="305" selection-end-column="24" />
               <folding>
                 <element signature="e#2204#2455#2" expanded="true" />
-                <element signature="e#6783#7034#2" expanded="true" />
+                <element signature="e#6784#7035#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -342,7 +342,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#2204#2455#2" expanded="true" />
-            <element signature="e#6783#7034#2" expanded="true" />
+            <element signature="e#6784#7035#2" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -361,7 +361,7 @@
           <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
           <folding>
             <element signature="e#2204#2455#2" expanded="true" />
-            <element signature="e#6783#7034#2" expanded="true" />
+            <element signature="e#6784#7035#2" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -404,7 +404,7 @@
           <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
           <folding>
             <element signature="e#2204#2455#2" expanded="true" />
-            <element signature="e#6783#7034#2" expanded="true" />
+            <element signature="e#6784#7035#2" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -454,7 +454,7 @@
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
             <element signature="e#2204#2455#2" expanded="true" />
-            <element signature="e#6783#7034#2" expanded="true" />
+            <element signature="e#6784#7035#2" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -608,10 +608,10 @@
     <entry file="file://$PROJECT_DIR$/src/app/styles/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61787075">
-          <caret line="305" column="23" selection-start-line="305" selection-start-column="23" selection-end-line="305" selection-end-column="23" />
+          <caret line="305" column="24" selection-start-line="305" selection-start-column="24" selection-end-line="305" selection-end-column="24" />
           <folding>
             <element signature="e#2204#2455#2" expanded="true" />
-            <element signature="e#6783#7034#2" expanded="true" />
+            <element signature="e#6784#7035#2" expanded="true" />
           </folding>
         </state>
       </provider>
